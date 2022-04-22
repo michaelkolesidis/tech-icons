@@ -2,20 +2,20 @@
 
 ## HTML
 ```
-<img src="https://github.com/michaelkolesidis/tech-icons/blob/main/icons/html5/html5-plain.svg" height="50px" /><img src="https://github.com/michaelkolesidis/tech-icons/blob/main/icons/html5/html5-plain-wordmark.svg" height="50px" />
+<a href=""><img src="https://github.com/michaelkolesidis/tech-icons/blob/main/icons/html5/html5-plain.svg" height="50px" /></a><a href=""><img src="https://github.com/michaelkolesidis/tech-icons/blob/main/icons/html5/html5-plain-wordmark.svg" height="50px" /></a>
 ```
 
 
 ## CSS
 ```
-<img src="https://github.com/michaelkolesidis/tech-icons/blob/main/icons/css3/css3-plain.svg" width="" />
-<img src="https://github.com/michaelkolesidis/tech-icons/blob/main/icons/css3/css3-plain-wordmark.svg" width="" />
+<a href=""><img src="https://github.com/michaelkolesidis/tech-icons/blob/main/icons/css3/css3-plain.svg" height="50px" /></a>
+<a href=""><img src="https://github.com/michaelkolesidis/tech-icons/blob/main/icons/css3/css3-plain-wordmark.svg" height="50px" /></a>
 ```
 
 ## JavaScipt
 ```
-<img src="https://github.com/michaelkolesidis/tech-icons/blob/main/icons/javascript/javascript-original.svg" width="" />
-<img src="https://github.com/michaelkolesidis/tech-icons/blob/main/icons/javascript/javascript-plain.svg" width="" />
+<a href=""><img src="https://github.com/michaelkolesidis/tech-icons/blob/main/icons/javascript/javascript-original.svg" height="50px" /></a>
+<a href=""><img src="https://github.com/michaelkolesidis/tech-icons/blob/main/icons/javascript/javascript-plain.svg" height="50px" /></a>
 
 ```
 
@@ -26,52 +26,52 @@
 
 ## Processing
 ```
-<img src="https://github.com/michaelkolesidis/tech-icons/blob/main/icons/processing/processing-2021-original.svg" width="" />
+<a href=""><img src="https://github.com/michaelkolesidis/tech-icons/blob/main/icons/processing/processing-2021-original.svg" height="50px" /></a>
 ```
 
 ## React
 ```
-<img src="https://github.com/michaelkolesidis/tech-icons/blob/main/icons/react/react-original.svg" width="" />
-<img src="https://github.com/michaelkolesidis/tech-icons/blob/main/icons/react/react-original-wordmark.svg" width="" />
+<a href=""><img src="https://github.com/michaelkolesidis/tech-icons/blob/main/icons/react/react-original.svg" height="50px" /></a>
+<a href=""><img src="https://github.com/michaelkolesidis/tech-icons/blob/main/icons/react/react-original-wordmark.svg" height="50px" /></a>
 ```
 
 ## Tone.js
 ```
-<img src="https://github.com/michaelkolesidis/tech-icons/blob/main/icons/tonejs/tonejs-original.png" width="" />
+<a href=""><img src="https://github.com/michaelkolesidis/tech-icons/blob/main/icons/tonejs/tonejs-original.png" height="50px" /></a>
 ```
 
 ## npm
 ```
-<img src="https://github.com/michaelkolesidis/tech-icons/blob/main/icons/npm/npm-original-wordmark.svg" width="" />
+<a href=""><img src="https://github.com/michaelkolesidis/tech-icons/blob/main/icons/npm/npm-original-wordmark.svg" height="50px" /></a>
 ```
 
 ## Sass
 ```
-<img src="https://github.com/michaelkolesidis/tech-icons/blob/main/icons/sass/sass-original.svg" width="" />
+<a href=""><img src="https://github.com/michaelkolesidis/tech-icons/blob/main/icons/sass/sass-original.svg" height="50px" /></a>
 ```
 
 ## Webpack
 ```
-<img src="https://github.com/michaelkolesidis/tech-icons/blob/main/icons/webpack/webpack-original.svg" width="" />
-<img src="https://github.com/michaelkolesidis/tech-icons/blob/main/icons/webpack/webpack-original-wordmark.svg" width="" />
+<a href=""><img src="https://github.com/michaelkolesidis/tech-icons/blob/main/icons/webpack/webpack-original.svg" height="50px" /></a>
+<a href=""><img src="https://github.com/michaelkolesidis/tech-icons/blob/main/icons/webpack/webpack-original-wordmark.svg" height="50px" /></a>
 ```
 
 ## TypeScript
 ```
-<img src="https://github.com/michaelkolesidis/tech-icons/blob/main/icons/typescript/typescript-original.svg" width="" />
+<a href=""><img src="https://github.com/michaelkolesidis/tech-icons/blob/main/icons/typescript/typescript-original.svg" height="50px" /></a>
 ```
 
 ## Bash
 ```
-<img src="https://github.com/michaelkolesidis/tech-icons/blob/main/icons/bash/bash-original.svg" width="" />
+<a href=""><img src="https://github.com/michaelkolesidis/tech-icons/blob/main/icons/bash/bash-original.svg" height="50px" /></a>
 ```
 
 ## C
 ```
-<img src="https://github.com/michaelkolesidis/tech-icons/blob/main/icons/c/c-language-original.svg" width="" />
+<a href=""><img src="https://github.com/michaelkolesidis/tech-icons/blob/main/icons/c/c-language-original.svg" height="50px" /></a>
 ```
 
 ## C++
 ```
-<img src="https://github.com/michaelkolesidis/tech-icons/blob/main/icons/cplusplus/cplusplus-iso-original.svg" width="" />
+<a href=""><img src="https://github.com/michaelkolesidis/tech-icons/blob/main/icons/cplusplus/cplusplus-iso-original.svg" height="50px" /></a>
 ```
