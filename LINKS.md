@@ -2,8 +2,7 @@
 
 ## HTML
 ```
-<img src="" width="https://github.com/michaelkolesidis/tech-icons/blob/main/icons/html5/html5-plain.svg" />
-<img src="https://github.com/michaelkolesidis/tech-icons/blob/main/icons/html5/html5-plain-wordmark.svg" width="" />
+<img src="https://github.com/michaelkolesidis/tech-icons/blob/main/icons/html5/html5-plain.svg" height="50px" /><img src="https://github.com/michaelkolesidis/tech-icons/blob/main/icons/html5/html5-plain-wordmark.svg" height="50px" />
 ```
 
 
