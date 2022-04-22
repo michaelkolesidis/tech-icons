@@ -76,3 +76,8 @@
 ```
 <a href="https://isocpp.org/"><img src="https://github.com/michaelkolesidis/tech-icons/blob/main/icons/cplusplus/cplusplus-iso-original.svg" height="50px" /></a>
 ```
+## Java
+```
+<a href="https://www.java.com/en/"><img src="https://github.com/michaelkolesidis/tech-icons/blob/main/icons/java/java-original.svg" height="50px" /></a>
+```
+
